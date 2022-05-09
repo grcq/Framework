@@ -1,0 +1,5 @@
+name: Framework
+version: '${project.version}'
+main: cf.grcq.framework.Framework
+authors: [ grcq ]
+description: Framework
